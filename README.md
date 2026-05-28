@@ -28,6 +28,5 @@ I am a passionate **Computer Science and Engineering Associate** based in Hydera
 
 ### 🗂️ My Coding Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manoharrajusarikonda331-mani&show_icons=true&theme=dark" alt="Mani's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoharrajusarikonda331-mani&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharrajusarikonda331-mani&theme=dark" alt="Mani's GitHub Stats" width="80%" />
 </p>
