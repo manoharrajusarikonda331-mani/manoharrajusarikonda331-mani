@@ -31,7 +31,7 @@ I am a passionate **Computer Science and Engineering Associate** based in Hydera
 
 ## 📂 Featured Projects Showcase
 
-### 🌐 [HAGANAR Web Project](https://github.com/manoharrajusarikonda331-mani)
+### 🌐 [HAGANAR Web Project (Live Demo)](https://manoharrajusarikonda331-mani.github.io/Html-File/) | [Source Code](https://github.com/manoharrajusarikonda331-mani)
 *A premium, highly refined web application designed with elegant glassmorphism styling, clean custom iconography systems, and completely fluid, responsive design architectures.*
 - 🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, Git
 - 🚀 **Key Highlights:** Removed cluttering elements in favor of a sleek, production-ready interface optimized for industrial standards.
