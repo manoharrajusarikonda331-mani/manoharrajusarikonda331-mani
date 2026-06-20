@@ -2,8 +2,8 @@
 ### 🚀 Computer Science & Engineering Associate | Web Developer & Aspiring Full Stack Developer
 
 <p align="left">
-  <a href="https://github.com/manoharrajusarikonda331-mani"><img src="https://img.shields.io/github/followers/manoharrajusarikonda331-mani?label=Followers&style=for-the-badge&color=blue" alt="Followers"></a>
-  <a href="https://github.com/manoharrajusarikonda331-mani?tab=repositories"><img src="https://img.shields.io/github/stars/manoharrajusarikonda331-mani?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars"></a>
+  <a href="https://github.com/manoharrajusarikonda331-mani"><img src="https://img.shields.io/github/followers/manoharrajusarikonda331-mani?style=for-the-badge&logo=github&color=blue" alt="Followers"></a>
+  <a href="https://github.com/manoharrajusarikonda331-mani?tab=repositories"><img src="https://img.shields.io/badge/Total%20Stars-14-yellow?style=for-the-badge&logo=github" alt="Total Stars"></a>
 </p>
 
 ---
