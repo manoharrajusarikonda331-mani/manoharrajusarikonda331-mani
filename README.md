@@ -4,6 +4,7 @@
 <p align="left">
   <a href="https://github.com/manoharrajusarikonda331-mani"><img src="https://img.shields.io/github/followers/manoharrajusarikonda331-mani?style=for-the-badge&logo=github&color=blue" alt="Followers"></a>
   <a href="https://github.com/manoharrajusarikonda331-mani?tab=repositories"><img src="https://img.shields.io/badge/Total%20Stars-14-yellow?style=for-the-badge&logo=github" alt="Total Stars"></a>
+  <a href="https://github.com/sponsors/manoharrajusarikonda331-mani"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Me"></a>
 </p>
 
 ---
