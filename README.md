@@ -53,7 +53,7 @@ I am an industry-ready **Computer Science & Engineering Associate** based in Hyd
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoharrajusarikonda331-mani&theme=dark" alt="Mani's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=manoharrajusarikonda331-mani&show_icons=true&theme=dark&count_private=true" alt="Mani's Profile Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=manoharrajusarikonda331-mani&show_icons=true&theme=dark&count_private=true" alt="Mani's Profile Stats" width="48%" />
 </p>
 
 ---
